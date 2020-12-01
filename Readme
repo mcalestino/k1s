@@ -12,9 +12,6 @@ A simplistic Kubernetes dashboard implemented with 50 lines of Bash code.
                                                                         |┻┳
 ```
 
-![Screencast](https://raw.githubusercontent.com/weibeld/k1s/master/assets/screencast-1.gif)
-
-
 ## What is it?
 
 A minimalistic Kubernetes dashboard allowing you to observe Kubernetes resources of any type in any namespace (or across all namespaces) in real-time.
