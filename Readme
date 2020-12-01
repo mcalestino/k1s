@@ -1,5 +1,7 @@
 # k1s: The world's simplest Kubernetes dashboard
 
+Using an article from Medium I created my first Kubernetes Dashboard 
+
 A simplistic Kubernetes dashboard implemented with 50 lines of Bash code.
 
 ```
